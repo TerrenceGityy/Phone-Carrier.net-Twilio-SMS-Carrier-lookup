@@ -1,0 +1,7 @@
+Create Twilio Account at their website https://www.twilio.com/login
+
+then get the SID and authorized_token that twilio will create for you 
+
+make sure the csv you enter always has the phone numbers under (Phone Number) Grid *Must be accurate text syntax*
+
+run the script and select any type of csv
